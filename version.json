@@ -1,5 +1,4 @@
 {
-  "launcher_version": "1.0.3",
-  "launcher_url": "https://github.com/baianosoftware/Baiano/releases/download/L1.0.3/BaianoLauncher.exe",
-  "latest_version": "1.0.0"
+  "launcher_version": "1.0.0",
+  "core_version": "1.0.0"
 }
